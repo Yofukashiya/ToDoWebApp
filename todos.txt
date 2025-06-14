@@ -1,5 +1,2 @@
-Do some programming
-Add a new todo
-And another one
-And one more 
-
+Make a todo
+Make one more lesson
